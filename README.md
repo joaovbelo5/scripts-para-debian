@@ -7,5 +7,5 @@ curl -sS https://raw.githubusercontent.com/joaovbelo5/scripts-para-debian/refs/h
 
 Script de instalação Docker no Debian 13
    ```bash
-curl -sS https://raw.githubusercontent.com/joaovbelo5/scripts-para-debian/refs/heads/main/ignorar-tampa.sh | sudo bash
+curl -sS https://raw.githubusercontent.com/joaovbelo5/scripts-para-debian/refs/heads/main/install-docker.sh | sudo bash
    ```
